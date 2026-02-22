@@ -1,6 +1,7 @@
 body {
     background-color: rgb(141, 211, 10);
-  } 
+  opacity: 0.9;
+}
   #Hi-I-like-year-11 { 
     background: #4e8d66;
     color: white;
@@ -80,8 +81,6 @@ body {
         }
     </style>
     
- p {
-  font-family: Georgia, serif;
-  font-size: 22px;
-  color: purple;
+    p.b {
+  font: italic small-caps bold 12px/30px Georgia, serif;
 }
